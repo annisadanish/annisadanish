@@ -35,4 +35,4 @@ I enjoy building projects that combine **security**, **digital business**, and *
 ## 📫 Connect
 - 📧 Email: [annisadanishk@gmail.com](mailto:annisadanishk@gmail.com)
 - 🐙 GitHub: [@annisadanish](https://github.com/annisadanish)
-- 💼 LinkedIn: [annisadanish](https://linkedin.com/in/annisadanish)
+- 💼 LinkedIn: [Annisa Danish Kamila](https://www.linkedin.com/in/annisa-danish-kamila-045283249/)
