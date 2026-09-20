@@ -7,7 +7,7 @@ I enjoy building projects that combine **security**, **digital business**, and *
 ## 🎯 Focus Areas
 | Pillar | Focus |
 |---|---|
-| **Cybersecurity** | Web security, vulnerability assessment, secure coding |
+| **Cybersecurity** | Web security, vulnerability assessment, secure coding, network analysis |
 | **Digital Business** | POS, analytics, SME dashboards, automation |
 | **Innovation** | AI tools, business idea validation, experimental products |
 
@@ -15,6 +15,8 @@ I enjoy building projects that combine **security**, **digital business**, and *
 | Project | Pillar | Description |
 |---|---|---|
 | [securescan](https://github.com/annisadanish/securescan) | Cybersecurity | Security header & SSL scanner for your own websites |
+| [pihole-network-analysis](https://github.com/annisadanish/pihole-network-analysis) | Cybersecurity | Raspberry Pi + Pi-hole DNS traffic analysis with Python & Orange |
+| [auth-token-lifecycle-research](https://github.com/annisadanish/auth-token-lifecycle-research) | Cybersecurity | Deep research into auth token lifecycle vulnerabilities + CLI toolkit |
 | [sme-pos-analytics](https://github.com/annisadanish/sme-pos-analytics) | Digital Business | Cashier app + sales reports for small businesses |
 | [innobot-idea-validator](https://github.com/annisadanish/innobot-idea-validator) | Innovation | AI tool to validate business ideas & generate SWOT |
 
@@ -25,12 +27,15 @@ I enjoy building projects that combine **security**, **digital business**, and *
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ## 📈 Progress
 - [x] Complete MVP for `securescan`
+- [x] Complete `pihole-network-analysis`
+- [x] Complete `auth-token-lifecycle-research`
 - [ ] Complete `sme-pos-analytics`
 - [ ] Build `innobot-idea-validator`
-- Currently learning: Cloud security, AI APIs, and business analytics
+- Currently learning: Cloud security, AI APIs, and network analysis
 
 ## 📫 Connect
 - 📧 Email: [annisadanishk@gmail.com](mailto:annisadanishk@gmail.com)
