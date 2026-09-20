@@ -36,4 +36,3 @@ I enjoy building projects that combine **security**, **digital business**, and *
 - 📧 Email: [annisadanishk@gmail.com](mailto:annisadanishk@gmail.com)
 - 🐙 GitHub: [@annisadanish](https://github.com/annisadanish)
 - 💼 LinkedIn: [annisadanish](https://linkedin.com/in/annisadanish)
-- 📸 Instagram: [@annisadanish](https://instagram.com/annisadanish)
