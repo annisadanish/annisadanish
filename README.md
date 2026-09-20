@@ -27,12 +27,13 @@ I enjoy building projects that combine **security**, **digital business**, and *
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📈 Progress
-- [ ] Complete MVP for `securescan`
+- [x] Complete MVP for `securescan`
 - [ ] Complete `sme-pos-analytics`
 - [ ] Build `innobot-idea-validator`
 - Currently learning: Cloud security, AI APIs, and business analytics
 
 ## 📫 Connect
-- LinkedIn: [annisadanish](#)
-- Instagram: [@annisadanish](#)
-- Email: your.email@example.com
+- 📧 Email: [annisadanishk@gmail.com](mailto:annisadanishk@gmail.com)
+- 🐙 GitHub: [@annisadanish](https://github.com/annisadanish)
+- 💼 LinkedIn: [annisadanish](https://linkedin.com/in/annisadanish)
+- 📸 Instagram: [@annisadanish](https://instagram.com/annisadanish)
