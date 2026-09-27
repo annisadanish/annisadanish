@@ -1,17 +1,17 @@
-# Hi, I'm Annisa Danish 👋
+# Hi, I'm Danish 👋
 
 > Cybersecurity Enthusiast • Digital Business Builder • Innovation Explorer
 
 I enjoy building projects that combine **security**, **digital business**, and **technology innovation**. My focus is on creating solutions that are secure, useful, and practical.
 
-## 🎯 Focus Areas
+## Focus Areas
 | Pillar | Focus |
 |---|---|
 | **Cybersecurity** | Web security, vulnerability assessment, secure coding, network analysis |
 | **Digital Business** | POS, analytics, SME dashboards, automation |
 | **Innovation** | AI tools, business idea validation, text generation, experimental products |
 
-## 🚀 Featured Projects
+## Featured Projects
 | Project | Pillar | Description |
 |---|---|---|
 | [securescan](https://github.com/annisadanish/securescan) | Cybersecurity | Security header & SSL scanner for your own websites |
@@ -21,7 +21,7 @@ I enjoy building projects that combine **security**, **digital business**, and *
 | [sme-pos-analytics](https://github.com/annisadanish/sme-pos-analytics) | Digital Business | Cashier app + sales reports for small businesses |
 | [innobot-idea-validator](https://github.com/annisadanish/innobot-idea-validator) | Innovation | AI tool to validate business ideas & generate SWOT |
 
-## 🛠 Tooling
+## Tooling
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -31,7 +31,7 @@ I enjoy building projects that combine **security**, **digital business**, and *
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-## 📈 Progress
+## Progress
 - [x] Complete MVP for `securescan`
 - [x] Complete `pihole-network-analysis`
 - [x] Complete `auth-token-lifecycle-research`
@@ -40,7 +40,7 @@ I enjoy building projects that combine **security**, **digital business**, and *
 - [ ] Build `innobot-idea-validator`
 - Currently learning: Cloud security, AI APIs, NLP evaluation, and network analysis
 
-## 📫 Connect
-- 📧 Email: [annisadanishk@gmail.com](mailto:annisadanishk@gmail.com)
-- 🐙 GitHub: [@annisadanish](https://github.com/annisadanish)
-- 💼 LinkedIn: [Annisa Danish Kamila](https://www.linkedin.com/in/annisa-danish-kamila-045283249/)
+## Connect
+- Email: [annisadanishk@gmail.com](mailto:annisadanishk@gmail.com)
+- GitHub: [@annisadanish](https://github.com/annisadanish)
+- LinkedIn: [Annisa Danish Kamila](https://www.linkedin.com/in/annisa-danish-kamila-045283249/)
